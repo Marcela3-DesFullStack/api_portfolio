@@ -2,19 +2,19 @@
   "skills": [
     {
       "id": "1",
-      "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721264.png",
       "title": "Frontend Web Development",
       "description": "Creating beautiful and functional web experiences is my forte. Using the latest technologies and best practices, I design and build websites that captivate and engage users."
     },
     {
       "id": "2",
-      "icon": "./img/mobileIcon.png",
+      "icon": "https://cdn.icon-icons.com/icons2/1494/PNG/512/mobile_102860.png",
       "title": "Mobile App Development",
       "description": "I specialize in creating responsive and intuitive mobile apps that work seamlessly across iOS & Android devices. From concept to deployment, I handle every stage of the development process."
     },
     {
       "id": "3",
-      "icon": "./img/stackIcon.png",
+      "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/full-stack-programmer-3919222-3246493.png?f=webp&w=256",
       "title": "Technology Stack",
       "description": "I'm well-versed in the industry's most popular frontend technologies, including HTML5, CSS3 and JavaScript."
     }
@@ -24,7 +24,7 @@
       "id": "1",
       "title": "Smart Drops",
       "link": "https://github.com/Marcela3-DesFullStack/SmartDrops_ToDoList",
-      "image": "./img/frontendIcon.png",
+      "image": "https://cdn.vectorstock.com/i/1000x1000/29/67/to-do-list-color-icon-vector-28812967.webp",
       "subject":  "To Do List",
       "languages": "HTML CSS JavaScript"
     },
@@ -32,7 +32,7 @@
       "id": "2",
       "title": "Selva Urbana",
       "link": "https://github.com/Marcela3-DesFullStack/SelvaUrbana",
-      "image": "./img/frontendIcon.png",
+      "image": "https://previews.123rf.com/images/jemastock/jemastock1705/jemastock170509947/78496592-color-image-cartoon-plant-with-leaves-in-growth-vector-illustration.jpg",
       "subject":  "E-commerce (Administrator sight)",
       "languages": "HTML CSS JavaScript React"
     },
@@ -40,7 +40,7 @@
       "id": "3",
       "title": "CIE Project",
       "link": "https://github.com/Marcela3-DesFullStack/CIE-Project",
-      "image": "./img/frontendIcon.png",
+      "image": "https://webershandwick.es/wp-content/uploads/sites/12/2022/10/portada.jpg",
       "subject":  "Landpage",
       "languages": "HTML CSS"
     },
@@ -48,7 +48,7 @@
       "id": "4",
       "title": "Noria Coders",
       "link": "https://github.com/neymi-k/NoriaCoders",
-      "image": "./img/frontendIcon.png",
+      "image": "https://c8.alamy.com/compes/2hb7hmh/crescent-gardens-harrogate-exposicion-nocturna-larga-con-movimiento-deliberado-de-la-camara-para-oscurecer-los-senderos-de-luz-de-una-noria-giratoria-2hb7hmh.jpg",
       "subject":  "Interactive playgame",
       "languages": "HTML CSS Javascript"
     }

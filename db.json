@@ -2,7 +2,7 @@
   "skills": [
     {
       "id": "1",
-      "icon": "../img/frontendIcon.png",
+      "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
       "title": "Frontend Web Development",
       "description": "Creating beautiful and functional web experiences is my forte. Using the latest technologies and best practices, I design and build websites that captivate and engage users."
     },
